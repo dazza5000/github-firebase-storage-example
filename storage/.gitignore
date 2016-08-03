@@ -6,5 +6,5 @@
 .DS_Store
 /build
 /captures
-
+google-services.json
 service_account.json
